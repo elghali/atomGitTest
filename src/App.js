@@ -15,6 +15,9 @@ class App extends Component {
           <p>
             if we add any changes
           </p>
+          <p>
+            or any other changes
+          </p>
         </p>
       </div>
     );
